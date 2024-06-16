@@ -4,8 +4,8 @@ const sname = document.getElementById("name")
 
 
 
-title.innerText = "My Love, My heart, My cutiepie<3";
+title.innerText = "To Pillar of Support";
 
-desc.innerText = "I cannot tell you ho much I love you. These past 6 months have been the best 6 months of my life and you are the reason.I hope I never ever loose you and our bond grows stronger and deeper.";
+desc.innerText = "I cannot tell you how much glad to be your son. I take deep pride in having you as my dad and I cannot thank you enough for always being there for me no matter what.";
 
-sname.innerText = "Chokrii";
+sname.innerText = "Akka";
